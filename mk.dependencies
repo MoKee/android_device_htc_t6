@@ -10,5 +10,5 @@
   {
     "repository": "android_vendor_htc_t6",
     "target_path": "vendor/htc/t6"
-  },
+  }
 ]
